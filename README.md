@@ -18,15 +18,14 @@
 
 
 ### 💻  Languages:
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="C" width="40px" src="/iconos/icons8-c++-48.png" />
+<img align="left" alt="C" width="50px" src="/iconos/icons8-c++-48.png" />
 
 
-<img align="left" alt="java" width="40px" src="/iconos/icons8-java-48.png" />
+<img align="left" alt="java" width="50px" src="/iconos/icons8-java-48.png" />
 
 <br/>  
-
 
 
 ### 🛠️ Tools:
