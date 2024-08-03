@@ -7,3 +7,10 @@
 - 💻 Programmer in Python, Java, and C/C++.
 - 🔐 Cybersecurity enthusiast.
 - 🛠️ Experienced in penetration testing on HackTheBox.
+
+
+
+## &#x1f4c8; GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo99RP\&rank_icon=github\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515))
+
