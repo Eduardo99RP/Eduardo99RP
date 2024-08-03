@@ -18,24 +18,24 @@
 
 
 ### 💻  Languages:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="C" width="26px" src="/iconos/icons8-c++-48.png" />
+<img align="left" alt="C" width="40px" src="/iconos/icons8-c++-48.png" />
 
 
-<img align="left" alt="java" width="30px" src="/iconos/icons8-java-48.png" />
+<img align="left" alt="java" width="40px" src="/iconos/icons8-java-48.png" />
 
 <br/>  
 
 
 
 ### 🛠️ Tools:
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 10px;" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="/iconos/github-icon-2.svg" style="margin-right: 10px;" />
+<img align="left" alt="GitHub" width="40px" src="/iconos/github-icon-2.svg" style="margin-right: 10px;" />
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 10px;">
+<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 10px;">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png"/>
 
 <br/>
