@@ -17,7 +17,7 @@
 </a>
 
 
-### 💻  Languages:
+## 💻  Languages:
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="C" width="50px" src="/iconos/icons8-c++-48.png" />
@@ -26,7 +26,7 @@
 
 <br/> <!-- Esto es para el salto de línea -->
 <br/>
-### 🛠️ Tools:
+## 🛠️ Tools:
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 10px;" />
 
 <img align="left" alt="GitHub" width="40px" src="/iconos/github-icon-2.svg" style="margin-right: 10px;" />
