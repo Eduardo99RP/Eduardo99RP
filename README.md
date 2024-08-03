@@ -1,6 +1,6 @@
-<p style="text-align: center; font-size: 2em; font-weight: bold;">
+<h1 style="text-align: center;">
     Hi everyone, I'm Eduardo 👋
-</p>
+</h1>
 
 
 - 💻 Programmer in Python, Java, and C/C++.
