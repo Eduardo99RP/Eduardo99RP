@@ -12,9 +12,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-|<a href="https://github.com/Eduardo99RP/Eduardo99RP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo99RP&amp;rank_icon=github&amp;repo=github-readme-stats&amp;title_color=fff&amp;icon_color=f9f9f9&amp;text_color=9f9f9f&amp;bg_color=151515" />
-</a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo99RP&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/Eduardo99RP/Eduardo99RP"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo99RP&amp;rank_icon=github&amp;repo=github-readme-stats&amp;title_color=fff&amp;icon_color=f9f9f9&amp;text_color=9f9f9f&amp;bg_color=151515" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo99RP&layout=compact&theme=buefy&hide_border=true\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515" /></a> |
 | ------------- | ------------- |
 
 
