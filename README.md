@@ -8,33 +8,18 @@
 - 🔐 Cybersecurity enthusiast.
 - 🛠️ Experienced in penetration testing on HackTheBox.
 
-## 💻  Languages:
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-eduardo-rivera-p%C3%A9rez-a76909226/) 
 
-<img align="left" alt="C" width="50px" src="/iconos/icons8-c++-48.png" />
-
-<img align="left" alt="Java" width="50px" src="/iconos/icons8-java-48.png" />
-
-
-
-<br/> <!-- Esto es para el salto de línea -->
-<br/>
-## 🛠️ Tools:
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin-right: 10px;" />
-
-<img align="left" alt="GitHub" width="40px" src="/iconos/github-icon-2.svg" style="margin-right: 10px;" />
-
-<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 10px;">
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png"/>
-
-<br/> 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+ 
 
 <br/> <!-- Esto es para el salto de línea -->
 
 ## &#x1f4c8; GitHub Stats
 
-|<a href="https://github.com/Eduardo99RP/Eduardo99RP"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo99RP&amp;rank_icon=github&amp;repo=github-readme-stats&amp;title_color=fff&amp;icon_color=f9f9f9&amp;text_color=9f9f9f&amp;bg_color=151515" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo99RP&layout=compact&rank_icon=github&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Top Languages"/></a> |
+|<a href="https://github.com/Eduardo99RP/Eduardo99RP"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo99RP&amp;rank_icon=github&amp;repo=github-readme-stats&amp;&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo99RP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a> |
 | ------------- | ------------- |
 
 
