@@ -46,7 +46,7 @@
 </a>
 <p>
 <a href="https://github.com/Eduardo99RP/CheemsBot" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>
@@ -65,7 +65,7 @@
 </a>
 <p>
 <a href="https://github.com/Eduardo99RP/Snake-Python" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>
@@ -76,9 +76,6 @@
 </table>                                                                                 
 </div>
 <br>
-
-
-<br/> <!-- Esto es para el salto de línea -->
 
 ## &#x1f4c8; GitHub Stats
 
