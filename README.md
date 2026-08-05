@@ -77,11 +77,6 @@
 </div>
 <br>
 
-## &#x1f4c8; GitHub Stats
-
-|<a href="https://github.com/Eduardo99RP/Eduardo99RP"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo99RP&amp;rank_icon=github&amp;repo=github-readme-stats&amp;&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo99RP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a> |
-| ------------- | ------------- |
-
 ## Working  
 
 <h1 align="center">
